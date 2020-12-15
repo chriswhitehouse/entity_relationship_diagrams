@@ -5,6 +5,8 @@ Entity Relationship Diagrams
 
 * Represent domain relationships with entity relationship diagrams
 
+>Answers in exercise files above
+
 ## Introduction
 
 ### One to one relationships
